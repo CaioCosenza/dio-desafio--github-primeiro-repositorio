@@ -1,5 +1,5 @@
-# Desafio de Projeto sobre Git/Hub da DIO
-Repositorio criado para o Desafio de Projeto
+# Desafio de Projeto sobre Git/Hub da DIO :rocket:
+Repositorio criado para o Desafio de Projeto 
 
 ## Comandos mais usados no GIT
 
@@ -41,6 +41,15 @@ Quando você precisa baixar as mudanças criadas por outros membros do seu proje
 O comando Git pull baixa o conteúdo (não os metadados) do que foi alterado no repositório remoto para o seu repositório local e imediatamente atualiza seu contreúdo para a última versão.
 
 
+# Curiosidades :monocle_face:
+## Quando surgiu o Git?
+O Git é um projeto de código aberto maduro e com manutenção ativa desenvolvido em 2005 por Linus Torvalds, o famoso criador do kernel do sistema operacional Linux.
+
+## Para que o git é usado?
+Git é o sistema de controle de versão open source mais usado no mundo atualmente! Ele é usado para controlar o histórico de alterações de arquivos e principalmente de projetos de desenvolvimento de software. Ele permite mais flexibilidade no fluxo de trabalho, segurança e desempenho.
+
+## Para que serve o GitHub?
+GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. É como uma plataforma social colaborativa, onde programadores e empresas colocam seus projetos para o desenvolvimento do código.
 
 
 
@@ -49,9 +58,6 @@ O comando Git pull baixa o conteúdo (não os metadados) do que foi alterado no 
 
 
 
-
-
-
-
-## Links Uteis
+## Links Uteis :computer:
 [Sintaxe Basica Markdown](https://www.markdownguide.org/)
+[Emojis](https://gitmoji.dev/)
